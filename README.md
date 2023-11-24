@@ -8,4 +8,6 @@ in the same area).
    comparing the results to seqscan. Also occasionally summarizes part
    of the table / whole table, does inserts etc.
 
+* `incremental-sort` - Tests for evaluation of the incremental sort patch.
+
 * `skip-scan` - Tests for evaluation of the skip scan patch.
