@@ -7,3 +7,5 @@ in the same area).
    opclasses), and verifies that the query results are correct by
    comparing the results to seqscan. Also occasionally summarizes part
    of the table / whole table, does inserts etc.
+
+* `skip-scan` - Tests for evaluation of the skip scan patch.
