@@ -12,4 +12,6 @@ in the same area).
 
 * `incremental-sort-2` - Tests for evaluation of the incremental sort patch.
 
+* `index-prefetching` - Tests for evaluation of the index prefetch patch.
+
 * `skip-scan` - Tests for evaluation of the skip scan patch.
