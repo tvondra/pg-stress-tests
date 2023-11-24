@@ -10,4 +10,6 @@ in the same area).
 
 * `incremental-sort` - Tests for evaluation of the incremental sort patch.
 
+* `incremental-sort-2` - Tests for evaluation of the incremental sort patch.
+
 * `skip-scan` - Tests for evaluation of the skip scan patch.
