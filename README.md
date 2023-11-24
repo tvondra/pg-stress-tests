@@ -8,6 +8,9 @@ in the same area).
    comparing the results to seqscan. Also occasionally summarizes part
    of the table / whole table, does inserts etc.
 
+* `gin-tests` - - Tests for evaluation of the GIN improvements. Uses
+   queries on mailing list archives (system called "archie").
+
 * `incremental-sort` - Tests for evaluation of the incremental sort patch.
 
 * `incremental-sort-2` - Tests for evaluation of the incremental sort patch.
