@@ -17,6 +17,8 @@ in the same area).
 
 * `index-prefetching` - Tests for evaluation of the index prefetch patch.
 
+* `logicalrel-ddl` - Logical replication stress test with concurrent DDL.
+
 * `skip-scan` - Tests for evaluation of the skip scan patch.
 
 * `stats-tests` - Evaluation of estimation accuracy with different data
